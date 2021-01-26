@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+- 📫 How to reach me: helene0211@hotmail.com
+- ⚡ Fun fact: I enjoy solving Rubik’s cubes
 
 <!--
 **helenejonson/helenejonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
