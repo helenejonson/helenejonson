@@ -3,6 +3,15 @@
 - 📫 How to reach me: helene0211@hotmail.com
 - ⚡ Fun fact: I enjoy solving Rubik’s cubes
 
+<details>
+<summary>Stats:</summary>
+  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=helenejonson&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenejonson&theme=tokyonight)
+</details>
+
+
 <!--
 **helenejonson/helenejonson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
