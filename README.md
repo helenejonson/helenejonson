@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on my bachelor thesis. See dumpster-finder
 - 📫 How to reach me: helene0211@hotmail.com
 - ⚡ Fun fact: I enjoy solving Rubik’s cubes
 
