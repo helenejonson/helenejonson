@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 For my bachelor project, see dumpster-finder.
+- 🔭 For my bachelor project, the application Dumpster Finder, see dumpster-finder. [dumster-finder](https://www.google.com "Dumpster finder")
 - 📫 How to reach me: helene0211@hotmail.com
 - ⚡ Fun fact: I enjoy solving Rubik’s cubes
 
