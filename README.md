@@ -4,7 +4,6 @@
 - 🎓 Bachelor’s degree in Computer Engineering at NTNU Trondheim (2018-2021)
 - 🔭 For my bachelor project, the application Dumpster Finder, see [dumster-finder](https://github.com/dumpster-finder/dumpster-finder "Dumpster finder").
 - 📫 How to reach me: helene0211@hotmail.com
-- ⚡ Fun fact: I enjoy solving Rubik’s cubes
 
 <details>
 <summary>Stats:</summary>
