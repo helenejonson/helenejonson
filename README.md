@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🎓 Master’s degree in Computer Science at NTNU Trondheim (2021- )
+- 🎓 Master’s degree in Computer Science at NTNU Trondheim (2021-2023)
 - 🎓 Bachelor’s degree in Computer Engineering at NTNU Trondheim (2018-2021)
 - 🔭 For my bachelor project, the application Dumpster Finder, see [dumster-finder](https://github.com/dumpster-finder/dumpster-finder "Dumpster finder").
-- 📫 How to reach me: helene0211@hotmail.com
+
 
 <details>
 <summary>Stats:</summary>
